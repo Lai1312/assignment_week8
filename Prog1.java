@@ -3,5 +3,6 @@ Public class Prog1 {
        System.out.println ("Pateros");
 	System.out.println ("Technological ");
 	System.out.println ("College");
+	System.out.println ("Course: BSCS");
    }
 }
